@@ -31,6 +31,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-PedroFurmam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-PedroFurmam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pedro-furmam-574937228/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pedro-furmam-574937228/))
 [![Gmail Badge](https://img.shields.io/badge/-pedrogfurmam@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrogfurmam@gmail.com)](mailto:pedrogfurmam@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/pedrofurmam?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/pedrofurmam/pedrofurmam))
