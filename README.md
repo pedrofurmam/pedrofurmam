@@ -33,4 +33,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-PedroFurmam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furmam-574937228/)](https://www.linkedin.com/in/pedro-furmam-574937228/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrogfurmam@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrogfurmam@gmail.com)](mailto:pedrogfurmam@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/pedrofurmam?label=follow&style=social)](https://github.com/pedrofurmam)
