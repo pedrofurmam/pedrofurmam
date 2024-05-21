@@ -7,7 +7,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens**
 
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python&logoColor=ffdd54)
