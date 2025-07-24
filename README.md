@@ -38,6 +38,12 @@ Here are some of the main projects I’ve worked on during my studies:
 
 ### **Python**
 - Developed an **autonomous machine** model for the *Formal Languages and Automata* course.
+- Built **computer vision algorithms** for:
+  - **Edge detection** in images.
+  - **Image histogram generation and analysis**.
+- Created **image processing applications** for:
+  - **Coin recognition** (detecting and classifying coins in images).
+
 
 ### **Java**
 - Built a **company and university registration system**, handling entities and relationships between them.
