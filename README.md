@@ -53,7 +53,9 @@ Here are some of the main projects I’ve worked on during my studies:
 
 ### **C++**
 - Implemented **2D objects and a game**, exploring graphics rendering and object interactions.
-
+  
+---
+### **Feel free to check my repositories!**
 ---
 
 ## Let's Connect
@@ -61,6 +63,6 @@ Here are some of the main projects I’ve worked on during my studies:
 - **LinkedIn:** https://www.linkedin.com/in/pedro-furmam-574937228/
 - **Email:** pedrogfurmam@gmail.com
 
-Feel free to check my repositories!
+
 
 
