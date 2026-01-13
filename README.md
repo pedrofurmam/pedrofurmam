@@ -17,7 +17,7 @@
 
 
 ### Most Used Languages
-![Top Langs](https://github-github-readme-stats-tau-liart.vercel.app/api/top-langs/?username=pedrofurmam&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofurmam&layout=compact&theme=vision-friendly-dark)
 ---
 
 ## Technical Skills
